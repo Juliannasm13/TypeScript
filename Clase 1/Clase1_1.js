@@ -1,0 +1,10 @@
+var a = 10;
+var c, b = "jose luis";
+var d;
+var e;
+e = b;
+c = true;
+a = 15;
+d = 500;
+alert("El monto ganado fue " + d);
+console.log("El valor de a es " + a + " y b " + b);
